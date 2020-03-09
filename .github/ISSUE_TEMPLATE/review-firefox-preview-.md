@@ -1,6 +1,7 @@
 ---
 name: 'Review Firefox Preview '
-about: 'Contribute by reviewing Firefox Preview, listing its three biggest issues from your point of view and suggesting design improvements'
+about: Contribute by reviewing Firefox Preview, listing its three biggest issues from
+  your point of view and suggesting design improvements
 title: ''
 labels: ''
 assignees: ''
