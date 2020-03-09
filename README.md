@@ -33,7 +33,7 @@ Please feel free to help your fellow applicants and get help from them.
         
         Have a look at the [Firefox Preview GitHub board](https://github.com/orgs/mozilla-mobile/projects/28) and explore possible design solutions for issues listed there. Please don’t answer on the issues directly but open up a new issue in this repository and reference the one you are working on.
 
-2. To document your designs, open a GitHub issue in this repository. Please make sure you explain what led to your design decisions. You can write text that explains your design, upload sketches or mocks. Learn about [supported file formats and sizes](https://help.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests).
+2. To document your designs, [open a GitHub issue in this repository](https://github.com/mozilla-mobile/outreachy-UX-2020/issues/new/choose). Please make sure you explain what led to your design decisions. You can write text that explains your design, upload sketches or mocks. Learn about [supported file formats and sizes](https://help.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests).
 
 3. To record your contribution, link your GitHub issue on the Outreachy platform 
 
